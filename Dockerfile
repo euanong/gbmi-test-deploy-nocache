@@ -1,1 +1,1 @@
-FROM gbmiteam/test_deploy:v1
+FROM gbmiteam/test_deploy:v2
